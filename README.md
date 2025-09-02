@@ -1,8 +1,8 @@
-## Politique de Confidentialité de l’Application Watchmann
+## Politique de Confidentialité de l’Application Qaryos
 **Dernière mise à jour : [25/02/2025]**
 
 ### Introduction
-L’application "Watchmann" est développée par Thery Lubertacci. Elle permet notamment de gérer des rondes de sécurité, de scanner des QR codes associés à différents points de contrôle et de suivre les données relatives à ces scans et rapports. Cette politique de confidentialité décrit la manière dont nous collectons, utilisons, protégeons et partageons les informations vous concernant lorsque vous utilisez l’Application.
+L’application "Qaryos" est développée par Thery Lubertacci. Elle permet notamment de gérer des rondes de sécurité, de scanner des QR codes associés à différents points de contrôle et de suivre les données relatives à ces scans et rapports. Cette politique de confidentialité décrit la manière dont nous collectons, utilisons, protégeons et partageons les informations vous concernant lorsque vous utilisez l’Application.
 
 ### Données Collectées et Leur Utilisation
 
@@ -39,13 +39,13 @@ Nous mettons en œuvre des mesures de sécurité raisonnables pour protéger vos
 Les données liées aux scans, rapports et informations utilisateurs sont conservées aussi longtemps que nécessaire pour répondre aux finalités de l’Application (tracer les rondes, générer des rapports historiques). Lorsqu’elles ne sont plus utiles, ces données peuvent être supprimées ou anonymisées.
 
 ### Droits de l’Utilisateur
-Selon les lois et réglementations applicables, vous pouvez avoir le droit de demander l’accès, la correction ou la suppression de vos données personnelles. Pour exercer ces droits, veuillez nous contacter à l’adresse suivante : **[watchmann.contact@gmail.com]**. Nous ferons de notre mieux pour traiter votre demande dans les meilleurs délais.
+Selon les lois et réglementations applicables, vous pouvez avoir le droit de demander l’accès, la correction ou la suppression de vos données personnelles. Pour exercer ces droits, veuillez nous contacter à l’adresse suivante : **[Qaryos.contact@gmail.com]**. Nous ferons de notre mieux pour traiter votre demande dans les meilleurs délais.
 
 ### Autorisation d’Accès à la Caméra
 Vous pouvez à tout moment gérer les autorisations accordées à l’Application via les paramètres de votre appareil. Notez que si vous désactivez l’accès à la caméra, vous ne pourrez plus scanner les QR codes et donc profiter pleinement de certaines fonctionnalités de l’Application.
 
 ### Consentement de l'Utilisateur en Union Européenne
-L'Application "Watchmann" intègre des services Google susceptibles d'exiger le consentement des utilisateurs finaux situés dans l’Espace Économique Européen, au Royaume-Uni et en Suisse. Conformément aux exigences de Google, nous nous engageons à :
+L'Application "Qaryos" intègre des services Google susceptibles d'exiger le consentement des utilisateurs finaux situés dans l’Espace Économique Européen, au Royaume-Uni et en Suisse. Conformément aux exigences de Google, nous nous engageons à :
 
 - **Obtenir un consentement valide des utilisateurs finaux pour l'utilisation des cookies et du stockage local, lorsque cela est requis par la loi.**
 - **Obtenir un consentement explicite pour la collecte, le partage et l'utilisation des données personnelles à des fins de personnalisation des annonces.**
@@ -59,5 +59,5 @@ Pour plus d’informations sur la politique de confidentialité de Google, veuil
 Nous nous réservons le droit de mettre à jour cette politique de confidentialité à tout moment. Les modifications prendront effet dès leur publication sur cette page ou dans l’Application. Nous vous encourageons à consulter régulièrement cette page pour être informé des changements éventuels.
 
 ### Contact
-Si vous avez des questions ou des préoccupations au sujet de cette politique de confidentialité, vous pouvez nous contacter à l’adresse suivante : **watchmann.contact@gmail.com**.
+Si vous avez des questions ou des préoccupations au sujet de cette politique de confidentialité, vous pouvez nous contacter à l’adresse suivante : **Qaryos.contact@gmail.com**.
 
